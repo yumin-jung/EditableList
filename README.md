@@ -1,0 +1,1 @@
+<img src="EditableList.gif" width="300" alt="EditableList" />
